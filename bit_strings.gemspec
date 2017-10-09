@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Binary strings"
   spec.description   = "Generate all the strings of n bits."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/hanhdt/bit-strings"
   spec.license       = "MIT"
   spec.platform      = Gem::Platform.local
   spec.required_ruby_version = '>= 1.9.0'
